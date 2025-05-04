@@ -21,3 +21,7 @@ this is a sketch of a little "we value X over Y" type microsite where you can si
 # Want to get involved?
 
 Please open an issue on this repo with a short blurb about what you think about this subject. We're at the "gather various opinions and find interested people" stage.
+
+# Credit
+
+Inspired by https://hachyderm.io/@sleepyfox/114449279574482644
