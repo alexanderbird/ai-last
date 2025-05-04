@@ -16,6 +16,7 @@ this is a sketch of a little "we value X over Y" type microsite where you can si
 - [ ] discuss stuff in issues
 - [ ] come up with a descriptive name and some insightful prose that describes the view
 - [ ] make some way for folks to sign their name to it or something like that
+- [ ] deploy the microsite at a short, memorable domain name
 
 # Want to get involved?
 
