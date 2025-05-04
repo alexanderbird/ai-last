@@ -1,3 +1,5 @@
+https://alexanderbird.github.io/ai-last/
+
 Document status: scribble on a napkin
 
 this is a sketch of a little "we value X over Y" type microsite where you can sign your name at the bottom and say "yeah, I also value X over Y". The gist is "people over LLMs" but that's trite... it needs improvement.
